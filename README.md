@@ -1,4 +1,4 @@
-# Inflamed – HRV Based Stress Prediction
+# Inflamed – HRV & Stress Prediction
 
 This project explores how **Heart Rate Variability (HRV)** signals can be used to analyze and predict daily stress levels using machine learning techniques.
 
