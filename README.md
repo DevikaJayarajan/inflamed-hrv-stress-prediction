@@ -90,8 +90,6 @@ Such models can potentially be applied in:
 
 ---
 
-# Author
-
 Devika Jayaraj  
 Master of Data Science – RMIT University  
 
